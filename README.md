@@ -7,7 +7,7 @@
 - Condicional.
 <hr>
 <p>
-Nesse desafio, você irá solicitar ao usuário que ele insira dois números e, a partir daí, calcular:
+Nesse desafio, você irá solicitar ao usuário que ele insira dois números e, a partir daí, calcular:<br>
 - [ ]  A soma dos dois números;
 - [ ]  A subtração dos dois números;
 - [ ]  A multiplicação dos dois números;
