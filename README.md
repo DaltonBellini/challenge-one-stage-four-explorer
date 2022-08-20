@@ -8,14 +8,14 @@
 <hr>
 <p>
 Nesse desafio, você irá solicitar ao usuário que ele insira dois números e, a partir daí, calcular:<br>
-- [ ]  A soma dos dois números;
-- [ ]  A subtração dos dois números;
-- [ ]  A multiplicação dos dois números;
-- [ ]  A divisão dos dois números;
-- [ ]  O resto da divisão dos dois números;
+- [ ]  A soma dos dois números;<br>
+- [ ]  A subtração dos dois números;<br>
+- [ ]  A multiplicação dos dois números;<br>
+- [ ]  A divisão dos dois números;<br>
+- [ ]  O resto da divisão dos dois números;<br>
 
-Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀
+Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀<br>
 
-- [ ]  Verifique se a soma dos dois números é par ~~(ou ímpar)~~;
-- [ ]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.
+- [ ]  Verifique se a soma dos dois números é par ~~(ou ímpar)~~;<br>
+- [ ]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.<br>
 </p
