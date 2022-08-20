@@ -17,7 +17,6 @@ Nesse desafio, você irá solicitar ao usuário que ele insira dois números e, 
 - [ ]  O resto da divisão dos dois números;<br>
 
 Fácil até aqui, né? Bora se desafiar? 👀 🧑‍🚀<br>
-
 - [ ]  Verifique se a soma dos dois números é par ~~(ou ímpar)~~;<br>
 - [ ]  Verifique se os dois números inseridos são iguais ~~(ou diferentes)~~.<br>
 </p
